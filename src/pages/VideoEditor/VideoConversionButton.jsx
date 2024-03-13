@@ -1,5 +1,4 @@
 import { Button } from "antd";
-
 import { fetchFile } from "@ffmpeg/ffmpeg";
 import { readFileAsBase64, sliderValueToVideoTime } from "../../utils/utils";
 import out from "../../assets/icons/out.svg";
